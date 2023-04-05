@@ -60,7 +60,7 @@ module.exports = configure(function (/* ctx */) {
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
 
-      publicPath: '/fatnan.github.io-quasar-todo',
+      publicPath: '/fatnan.github.io-quasar-todo/',
       // analyze: true,
       // env: {},
       // rawDefine: {}
